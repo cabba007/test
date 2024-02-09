@@ -1,33 +1,17 @@
-#EXTM3U
-#EXTINF:-1 group-title="未分组",CCTV-1综合HD
-http://183.94.146.109:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-2财HD
-http://183.94.146.109:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-3综艺HD
-http://183.94.146.109:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-4中文国际HD
-http://183.94.146.109:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-5体育HD
-http://183.94.146.109:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-6电影HD
-http://183.94.146.109:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-7国防军事HD
-http://183.94.146.109:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-8电视剧HD
-http://183.94.146.109:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-9纪录HD
-http://183.94.146.109:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-10科教HD
-http://183.94.146.109:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-11戏曲HD
-http://183.94.146.109:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-12社会与法HD
-http://183.94.146.109:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-13新闻HD
-http://183.94.146.109:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-14少儿HD
-http://183.94.146.109:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV-15音乐
-http://183.94.146.109:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV5+体育赛事HD
-http://183.94.146.109:9901/tsfile/live/0016_1.m3u8
+央视频道,#genre#
+CCTV-1综合HD,http://183.94.146.109:9901/tsfile/live/0001_1.m3u8
+CCTV-2财*HD,http://183.94.146.109:9901/tsfile/live/0002_1.m3u8
+CCTV-3综艺HD,http://183.94.146.109:9901/tsfile/live/0003_1.m3u8
+CCTV-4中文国际HD,http://183.94.146.109:9901/tsfile/live/0004_1.m3u8
+CCTV-5体育HD,http://183.94.146.109:9901/tsfile/live/0005_1.m3u8
+CCTV-6电影HD,http://183.94.146.109:9901/tsfile/live/0006_1.m3u8
+CCTV-7国防军事HD,http://183.94.146.109:9901/tsfile/live/0007_1.m3u8
+CCTV-8电视剧HD,http://183.94.146.109:9901/tsfile/live/0008_1.m3u8
+CCTV-9纪录HD,http://183.94.146.109:9901/tsfile/live/0009_1.m3u8
+CCTV-10科教HD,http://183.94.146.109:9901/tsfile/live/0010_1.m3u8
+CCTV-11戏曲HD,http://183.94.146.109:9901/tsfile/live/0011_1.m3u8
+CCTV-12社会与法HD,http://183.94.146.109:9901/tsfile/live/0012_1.m3u8
+CCTV-13新闻HD,http://183.94.146.109:9901/tsfile/live/0013_1.m3u8
+CCTV-14少儿HD,http://183.94.146.109:9901/tsfile/live/0014_1.m3u8
+CCTV-15音乐,http://183.94.146.109:9901/tsfile/live/0015_1.m3u8
+CCTV5+体育赛事HD,http://183.94.146.109:9901/tsfile/live/0016_1.m3u8
