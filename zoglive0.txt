@@ -55,6 +55,7 @@ CHC高清电影HD,http://183.94.146.109:9901/tsfile/live/1020_1.m3u8
 松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1735660799-0-0-a380e59865129a39561528ada31d0e63
 洪湖综合,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
 cejd,http://hg.881488.xyz:3600/stream/channelid/2084883247?profile=pass
+taoge,https://www.aois.eu.org/live/douyu/9562738
 
 直播中国,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
