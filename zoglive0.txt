@@ -1,3 +1,27 @@
+🔸港澳,#genre#
+huayu电影,http://mmitv.top/test/douyu.php?id=85894
+yingyu电影,http://mmitv.top/test/douyu.php?id=20415
+周星驰电影,http://mmitv.top/test/douyu.php?id=122402
+ganju,http://mmitv.top/test/douyu.php?id=4290711
+ganju2,http://mmitv.top/test/douyu.php?id=5522351
+ganju3,http://mmitv.top/test/douyu.php?id=5261342
+sanguoyanyi,http://mmitv.top/test/douyu.php?id=7459925
+芊珏影视,http://mmitv.top/test/douyu.php?id=8814650
+民視,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+台視,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
+中視,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+華視,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+港臺電視31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+港臺電視32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+港臺電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+港臺電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+港臺電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+無線財經體育資訊台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+ViuTVsix,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+
 联通,#genre#
 萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
 淘Baby,http://ha.tonyliangli.cn:4022/udp/239.3.1.238:8001
@@ -8,7 +32,7 @@
 北京财经,http://ha.tonyliangli.cn:4022/udp/239.3.1.116:8000
 北京纪实,http://ha.tonyliangli.cn:4022/udp/239.3.1.115:8000
 北京生活,http://ha.tonyliangli.cn:4022/udp/239.3.1.117:8000
-北京体育,http://ha.tonyliangli.cn:4022/udp/239.3.1.243:8000
+北京体育0,http://ha.tonyliangli.cn:4022/udp/239.3.1.243:8000
 北京体育,http://ha.tonyliangli.cn:4022/udp/239.3.1.97:8001
 北京卫视,http://ha.tonyliangli.cn:4022/udp/239.3.1.241:8000
 北京文艺,http://ha.tonyliangli.cn:4022/udp/239.3.1.242:8000
