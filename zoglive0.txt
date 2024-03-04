@@ -1,13 +1,15 @@
-🔸港澳,#genre#
+港澳,#genre#
 jjddz,http://mmitv.top/test/douyu.php?id=488743
-jjddz1,https://www.gxxdiptv.club/bilibili/22021983
-huayu电影,http://mmitv.top/test/douyu.php?id=85894
-yingyu电影,http://mmitv.top/test/douyu.php?id=20415
+jjddz1,https://www.goodiptv.club/bilibili/22021983
+华语电影,http://mmitv.top/test/douyu.php?id=85894
+英语电影,http://mmitv.top/test/douyu.php?id=20415
 周星驰电影,http://mmitv.top/test/douyu.php?id=122402
 ganju,http://mmitv.top/test/douyu.php?id=4290711
 ganju2,http://mmitv.top/test/douyu.php?id=5522351
 ganju3,http://mmitv.top/test/douyu.php?id=5261342
-sanguoyanyi,http://mmitv.top/test/douyu.php?id=7459925
+电影2,https://www.aois.eu.org/live/douyu/74374
+电影3,https://www.aois.eu.org/live/douyu/8770422
+三国演义,http://mmitv.top/test/douyu.php?id=7459925
 芊珏影视,http://mmitv.top/test/douyu.php?id=8814650
 民視,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
 台視,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
@@ -26,7 +28,6 @@ ViuTVsix,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztv
 
 联通,#genre#
 萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
-淘Baby,http://ha.tonyliangli.cn:4022/udp/239.3.1.238:8001
 淘电影,http://ha.tonyliangli.cn:4022/udp/239.3.1.250:8001
 淘精彩,http://ha.tonyliangli.cn:4022/udp/239.3.1.178:8001
 淘剧场,http://ha.tonyliangli.cn:4022/udp/239.3.1.95:8001
@@ -41,8 +42,6 @@ ViuTVsix,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztv
 北京新闻,http://ha.tonyliangli.cn:4022/udp/239.3.1.159:8000
 北京影视,http://ha.tonyliangli.cn:4022/udp/239.3.1.158:8000
 北京影视,http://ha.tonyliangli.cn:4022/udp/239.3.1.235:8000
-CCTV-5体育HD,http://y23190000146.noip.cn:9901/tsfile/live/1004_1.m3u8?
-CCTV5+体育赛事HD,http://y23190000146.noip.cn:9901/tsfile/live/1014_1.m3u8?
 东方卫视,http://h.berr.cn:3000/udp/225.0.0.2:6140
 外语频道,http://h.berr.cn:3000/udp/225.0.0.10:6140
 都市频道,http://h.berr.cn:3000/udp/225.0.0.3:6140
@@ -56,6 +55,8 @@ CCTV5+体育赛事HD,http://y23190000146.noip.cn:9901/tsfile/live/1014_1.m3u8?
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 CCTV-5体育,http://61.136.96.78:880/5.m3u8
 CCTV-5+体育赛事,http://61.136.96.78:880/16.m3u8
+CCTV-5体育HD,http://y23190000146.noip.cn:9901/tsfile/live/1004_1.m3u8?
+CCTV5+体育赛事HD,http://y23190000146.noip.cn:9901/tsfile/live/1014_1.m3u8?
 CCTV5-HD11,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
 CCTV5+-HD11,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 CCTV-5高清,http://op.675555.xyz:9000/udp/239.125.2.54:4120
@@ -64,8 +65,6 @@ CCTV-5+高清,http://op.675555.xyz:9000/udp/239.125.1.57:5000
 江西卫视,http://123.138.216.44:9902/tsfile/live/0138_1.m3u8
 江西卫视1,http://61.136.96.78:880/27.m3u8
 taoge,https://www.aois.eu.org/live/douyu/9562738
-taoge2,https://www.aois.eu.org/live/douyu/74374
-taoge3,https://www.aois.eu.org/live/douyu/8770422
 纪实人文,http://h.berr.cn:3000/udp/225.0.0.6:6140
 生活时尚,http://h.berr.cn:3000/udp/225.0.0.163:6140
 绿色生态,http://h.berr.cn:3000/udp/225.0.0.222:6140
@@ -219,7 +218,7 @@ CHC高清电影,http://61.136.96.78:880/64.m3u8
 中国功夫,http://bxny.667789.cn:88/hls/152/index.m3u8
 炫舞未来,http://bxny.667789.cn:88/hls/153/index.m3u8
 
-直播中国,#genre#
+慢直播,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 北京-南宫温泉休闲度假区,http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
 北京-水立方,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
