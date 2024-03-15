@@ -2,18 +2,20 @@
 jjddz,http://mmitv.top/test/douyu.php?id=488743
 jjddz1,https://www.goodiptv.club/bilibili/22021983
 少东家,https://www.goodiptv.club/bilibili/4461493
-周星驰电影,http://mmitv.top/test/douyu.php?id=122402
-华语电影,http://mmitv.top/test/douyu.php?id=85894
-英语电影,http://mmitv.top/test/douyu.php?id=20415
 港剧,http://mmitv.top/test/douyu.php?id=4290711
 港剧2,http://mmitv.top/test/douyu.php?id=5522351
 港剧3,http://mmitv.top/test/douyu.php?id=5261342
 港剧4,https://www.aois.eu.org/live/douyu/5061550
+电影,http://mmitv.top/test/douyu.php?id=20415
 电影2,https://www.aois.eu.org/live/douyu/74374
 电影3,https://www.aois.eu.org/live/douyu/8770422
+周星驰,http://mmitv.top/test/douyu.php?id=122402
 本山,https://www.aois.eu.org/live/douyu/9817716
 三国演义,http://mmitv.top/test/douyu.php?id=7459925
-芊珏影视,http://mmitv.top/test/douyu.php?id=8814650
+傲娇的虾虾,http://mmitv.top/test/douyu.php?id=338759
+芊珏ovo,http://mmitv.top/test/douyu.php?id=8814650
+HBO台,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
+三立新闻台1,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
 民視,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
 台視,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
 中視,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
@@ -59,6 +61,7 @@ TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxz
 三立LIVE台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
 动物星球台,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
 探索频道台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+探索频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
 龙祥电影台,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
 东森电影台,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
 龙华电影台,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
@@ -66,6 +69,7 @@ TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxz
 好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 AXN台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
 东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
 联通,#genre#
 萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
