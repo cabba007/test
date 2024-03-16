@@ -59,23 +59,22 @@ CCTV5-HD11,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
 CCTV5+-HD11,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 CCTV-5高清,http://op.675555.xyz:9000/udp/239.125.2.54:4120
 CCTV-5+高清,http://op.675555.xyz:9000/udp/239.125.1.57:5000
+咪咕足球,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
+广东体育1,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
 江西卫视高清,http://op.675555.xyz:9000/udp/239.125.2.101:4129
+湖北经视,https://tv.cry33.com/hbcj.php?id=hbjs
 江西卫视,http://123.138.216.44:9902/tsfile/live/0138_1.m3u8
-江西卫视1,http://61.136.96.78:880/27.m3u8
 taoge,https://www.aois.eu.org/live/douyu/9562738
 纪实人文,http://h.berr.cn:3000/udp/225.0.0.6:6140
 生活时尚,http://h.berr.cn:3000/udp/225.0.0.163:6140
 绿色生态,http://h.berr.cn:3000/udp/225.0.0.222:6140
-书画[768*576],http://61.136.96.78:880/93.m3u8
-铜陵公共,http://51938.hlsplay.aodianyun.com/tv_radio_51938/tv_channel_3457.m3u8?auth_key=4855259927-0-0-41ab8b5a0886447775bb9e4d2811c725&extra_key=cI8hTnpR8WFcQqIM0SRymtxVCFrQ-FCBLa9uFZMpSqrwP1crI5sY1CSmQMfbpmMRFPmMFYlVYDndRAztcPZ1v9QL0CTddubz4DwT7DS0h1_XkzBleYy6Lgb-ih5Au5cAEQgpV-MJiFB3Oyge-lrj-KZmR4nVwNtzVgHVLOWNS50
-铜陵科技,http://51938.hlsplay.aodianyun.com/tv_radio_51938/tv_channel_3456.m3u8?auth_key=4855259682-0-0-a046aba59253554ac5a705b29d38ec53&extra_key=tgTYeJPFoKl6L2oTJzsVhQB57DXYbDqezEb8MskHVg14rXrg_Xu2v9FmDv83PaGm58WAe7SOIEPle3rp17WiJ4YDMG5Pbwja9tzrw0b174UxcfHXuK3SJ0AHdj4goCprj3tB4lmgacn2ACJU72OxUMtqJH__oQnMSYuOC2rOrOE
 安庆新闻综合,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8
 安庆经济生活,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8
 随州综合,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=4836074354-0-0-d3ae3e237ae5fdaa7e72d8b930ff507b&extra_key=q_KhUzRNviTQMw35AK7VUOsxUuO3fkLbRbWjHBywJErK0zgP7mqTsFvo50t7UieqiF-pvnPCIMJa5QdRQ1gLPBYWz9HOG7TAdI5vRG232V88z98QUcOS1P6iUQbACyEaoEVKLRe_Am23Ezeahvwg0pDBetjQHrLPx7P8mro2vqw15rvUQKLSF-HBByajerez
 随州农村,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8?auth_key=4834621829-0-0-49c63c7de26b595a9177e498db618f79&extra_key=xQtKveJFBYYdE5xPP5Qc5y3qlfhlj-BcHOcbWxez9NxCHHoFi0Lp44BN8aqi2_k9URCU-rsf8mQz8CYifgEaMzixzi63CT1KgCDexQ0cD5X0e0lUMZaQy0DMOXcFpW1Cf9zn7psgSNcUQiA2OGcxi7TXk-_FyDGcu767szWh8SQJ0Vr0uNRbiqE2jzk7ICiX
 恩施新闻综合.http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
-鹤峰综合,http://40568.hlsplay.aodianyun.com/tv_radio_40568/tv_channel_3023.m3u8?auth_key=4857786365-0-0-8b20a087d454fcf44a7d97911b4a4311&extra_key=-Kc1-1SHyjwHP9uIJmfaC6EYB9W-jC2o4OQdPicV_T_LpkEvQU_A3lKR4qgtzHyg3kd22knBJ0ZktvECqnaKREugP6XYRpVH_ziXWU75bXY3gV6wgnNECWXsfgsV6-YtjnA4NRno85ks8fLNSLOSTNGs7sfSzvBqkLyRkd8SwxQ
 南江综合,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874
 义乌新闻综合,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe&ali_ffmpeg_version=mpengine
@@ -139,8 +138,6 @@ taoge,https://www.aois.eu.org/live/douyu/9562738
 农业致富,http://bxny.667789.cn:88/hls/148/index.m3u8
 怡伴健康,http://bxny.667789.cn:88/hls/149/index.m3u8
 潮妈辣妹,http://bxny.667789.cn:88/hls/150/index.m3u8
-武博世界,http://bxny.667789.cn:88/hls/151/index.m3u8
-中国功夫,http://bxny.667789.cn:88/hls/152/index.m3u8
 炫舞未来,http://bxny.667789.cn:88/hls/153/index.m3u8
 
 慢直播,#genre#
