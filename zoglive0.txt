@@ -23,9 +23,8 @@ CCTV-5+高清,http://op.675555.xyz:9000/udp/239.125.1.57:5000
 港剧3,http://mmitv.top/test/douyu.php?id=5261342
 港剧4,https://www.aois.eu.org/live/douyu/5061550
 港剧5,https://www.aois.eu.org/live/douyu/434971
-钓鱼,https://www.aois.eu.org/live/douyu/791411
 春风十里听雨眠,https://www.aois.eu.org/live/douyu/5820284
-广场舞,https://www.aois.eu.org/live/douyu/292098
+广场舞,http://43.138.170.29:35455/douyu/292098
 电影,http://mmitv.top/test/douyu.php?id=20415
 电影2,https://www.aois.eu.org/live/douyu/74374
 电影3,https://www.aois.eu.org/live/douyu/8770422
@@ -46,6 +45,7 @@ HBO台,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvc
 湖北经视,https://tv.cry33.com/hbcj.php?id=hbjs
 涛厨,https://www.aois.eu.org/live/douyu/9562738
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+钓鱼,http://mmitv.top/test/douyu.php?id=791411
 江西卫视,http://123.138.216.44:9902/tsfile/live/0138_1.m3u8
 萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
 淘电影,http://ha.tonyliangli.cn:4022/udp/239.3.1.250:8001
