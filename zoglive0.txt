@@ -1,5 +1,5 @@
 港澳,#genre#
-jj斗地主,https://cn-gddg-cu-01-06.bilivideo.com/live-bvc/403712/live_315571702_79885316_1500/index.m3u8
+jj斗地主,https://cn-hncs-cu-01-07.bilivideo.com/live-bvc/403712/live_315571702_79885316/index.m3u8
 jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 五星体育HD,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
