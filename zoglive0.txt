@@ -4,12 +4,13 @@ jj斗地主1,https://cn-hncs-cu-01-07.bilivideo.com/live-bvc/403712/live_3155717
 jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 五星体育1,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
+CCTV-5,http://111.162.224.115:9999/udp/225.1.1.160:5002
+CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
+CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 CCTV5a,http://www.baopiqi.top:4022/udp/239.45.1.69:5140
 CCTV5+a,http://www.baopiqi.top:4022/udp/239.45.0.34:5140
 CCTV5b,http://y23190000146.noip.cn:9901/tsfile/live/1004_1.m3u8?
 CCTV5+b,http://y23190000146.noip.cn:9901/tsfile/live/1014_1.m3u8?
-CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
-CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 CCTV5d,http://op.675555.xyz:9000/udp/239.125.2.54:4120
 CCTV5+d,http://op.675555.xyz:9000/udp/239.125.1.57:5000
 咪咕足球,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
