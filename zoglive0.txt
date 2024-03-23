@@ -18,6 +18,7 @@ CCTV5+d,http://op.675555.xyz:9000/udp/239.125.1.57:5000
 广东体育1,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 周星驰,http://mmitv.top/test/douyu.php?id=122402
 蓝原延珠,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/628324/live_1590370_4064847_1500/index.m3u8
+哈吉bye,https://cn-hnly-cu-01-14.bilivideo.com/live-bvc/637851/live_1642421_332_c521e483_2500/index.m3u8
 开踢视频回放时光机,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/354216/live_1324808_2921552_1500/index.m3u8
 少东家,https://www.goodiptv.club/bilibili/4461493
 港剧,http://mmitv.top/test/douyu.php?id=4290711
