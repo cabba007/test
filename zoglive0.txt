@@ -10,7 +10,16 @@ CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
 CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
 CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
-周星驰,http://mmitv.top/test/douyu.php?id=122402
+migu2,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=&encrypt=
+migu5,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=&encrypt=
+migu5p,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&encrypt=
+migu17,http://lr1.aikan.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?msisdn=&encrypt=
+migua,http://lr1.aikan.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?msisdn=&encrypt=
+migub,http://lr1.aikan.miguvideo.com/migu/lunbo/pingpang/57/20230310/index.m3u8?msisdn=&encrypt=
+miguc,http://lr1.aikan.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?msisdn=&encrypt=
+migud,http://lr1.aikan.miguvideo.com/migu/lunbo/pingpang/57/20230310/index.m3u8?msisdn=&encrypt=
+migue,http://lr1.aikan.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=&encrypt=
+周星驰,http://43.138.170.29:35455/douyu/122402
 蓝原延珠,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/628324/live_1590370_4064847_1500/index.m3u8
 哈吉bye,https://cn-hnly-cu-01-14.bilivideo.com/live-bvc/637851/live_1642421_332_c521e483_2500/index.m3u8
 开踢视频回放时光机,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/354216/live_1324808_2921552_1500/index.m3u8
