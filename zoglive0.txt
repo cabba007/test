@@ -4,6 +4,8 @@ jj斗地主1,http://43.138.170.29:35455/douyin/685317364746
 jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 五星体育1,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
+CCTV5ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=5
+CCTV5+ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=6
 CCTV-5-27,http://27.11.249.153:8007/udp/225.0.4.143:7980
 CCTV5体育-123,http://123.145.23.104:8004/udp/225.0.4.143:7980
 CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
