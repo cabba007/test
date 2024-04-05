@@ -4,26 +4,20 @@ jj斗地主1,http://43.138.170.29:35455/douyin/685317364746
 jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 五星体育1,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
+CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
+CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 CCTV5ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=5
 CCTV5+ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=6
 CCTV-5-27,http://27.11.249.153:8007/udp/225.0.4.143:7980
 CCTV5体育-123,http://123.145.23.104:8004/udp/225.0.4.143:7980
 CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
-CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
-CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
 周星驰,http://43.138.170.29:35455/douyu/122402
-蓝原延珠,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/628324/live_1590370_4064847_1500/index.m3u8
-哈吉bye,https://cn-hnly-cu-01-14.bilivideo.com/live-bvc/637851/live_1642421_332_c521e483_2500/index.m3u8
-开踢视频回放时光机,https://cn-hncs-cu-01-04.bilivideo.com/live-bvc/354216/live_1324808_2921552_1500/index.m3u8
-少东家,https://www.goodiptv.club/bilibili/4461493
 港剧,http://mmitv.top/test/douyu.php?id=4290711
 港剧2,http://mmitv.top/test/douyu.php?id=5522351
 港剧3,http://mmitv.top/test/douyu.php?id=5261342
 港剧4,https://www.aois.eu.org/live/douyu/5061550
 港剧5,https://www.aois.eu.org/live/douyu/434971
-春风十里听雨眠,http://mmitv.top/test/douyu.php?id=5820284
-广场舞,http://43.138.170.29:35455/douyu/292098
 电影,http://mmitv.top/test/douyu.php?id=20415
 电影2,http://mmitv.top/test/douyu.php?id=74374
 电影3,http://mmitv.top/test/douyu.php?id=8770422
@@ -35,6 +29,8 @@ CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 鹿鼎记,https://live.metshop.top/yy/28265277
 港臺電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+春风十里,http://mmitv.top/test/douyu.php?id=5820284
+广场舞,http://43.138.170.29:35455/douyu/292098
 
 联通,#genre#
 江西卫视,http://27.11.62.175:8010/udp/225.0.4.203:7980
@@ -66,7 +62,7 @@ migu17,http://lr1.aikan.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8
 migua,http://lr1.aikan.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?msisdn=&encrypt=
 migub,http://lr1.aikan.miguvideo.com/migu/lunbo/pingpang/57/20230310/index.m3u8?msisdn=&encrypt=
 miguc,http://lr1.aikan.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?msisdn=&encrypt=
-migud,http://lr1.aikan.miguvideo.com/migu/lunbo/pingpang/57/20230310/index.m3u8?msisdn=&encrypt=
+migud,http://lr1.aikan.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/index.m3u8?msisdn=&encrypt=
 migue,http://lr1.aikan.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=&encrypt=
 江西卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.147:7147
 浙江民生2,http://220.184.204.26:4022/udp/233.50.201.136:5140
