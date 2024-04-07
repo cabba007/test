@@ -1,4 +1,4 @@
-港澳,#genre#
+杂,#genre#
 jj斗地主,https://cn-hncs-cu-01-07.bilivideo.com/live-bvc/403712/live_315571702_79885316_1500/index.m3u8
 jj斗地主1,http://43.138.170.29:35455/douyin/685317364746
 jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
@@ -6,12 +6,11 @@ jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育1,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
 CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
 CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
-CCTV5ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=5
-CCTV5+ysp,http://8.134.82.80:32858/ysp/haiouysp.php?id=6
 CCTV-5-27,http://27.11.249.153:8007/udp/225.0.4.143:7980
 CCTV5体育-123,http://123.145.23.104:8004/udp/225.0.4.143:7980
 CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
+鹿鼎记,https://live.metshop.top/yy/28265277
 周星驰,http://43.138.170.29:35455/douyu/122402
 港剧,http://mmitv.top/test/douyu.php?id=4290711
 港剧2,http://mmitv.top/test/douyu.php?id=5522351
@@ -24,18 +23,18 @@ CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
 电影4,http://mmitv.top/test/douyu.php?id=1226741
 本山,http://mmitv.top/test/douyu.php?id=9817716
 三国演义,http://mmitv.top/test/douyu.php?id=7459925
-傲娇的虾虾,http://mmitv.top/test/douyu.php?id=338759
+古装剧,http://mmitv.top/test/douyu.php?id=338759
 芊珏ovo,http://mmitv.top/test/douyu.php?id=8814650
-鹿鼎记,https://live.metshop.top/yy/28265277
 港臺電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 春风十里,http://mmitv.top/test/douyu.php?id=5820284
 广场舞,http://43.138.170.29:35455/douyu/292098
-fh,http://101.68.81.44:9999/udp/233.50.200.192:5140
+凤凰,http://101.68.81.44:9999/udp/233.50.200.192:5140
 
 联通,#genre#
 江西卫视,http://27.11.62.175:8010/udp/225.0.4.203:7980
 江西卫视5,http://119.4.196.65:4455/udp/239.93.0.134:5140
+江西卫视6,http://114.254.34.180:8887/udp/228.1.1.211:8164
 湖北经视,https://tv.cry33.com/hbcj.php?id=hbjs
 涛厨,http://43.138.170.29:35455/douyu/9562738
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
@@ -55,7 +54,6 @@ CCTV-17,http://27.11.62.175:8010/udp/225.0.4.179:7980
 安徽卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.122:6108
 辽宁卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.123:6108
 湖北经视HD-183,http://183.92.4.163:4000/udp/228.0.0.125:6108
-湖南经视,http://113.218.137.25:9999/udp/239.76.245.116:1234
 migu2,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=&encrypt=
 migu5,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=&encrypt=
 migu5p,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&encrypt=
