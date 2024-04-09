@@ -34,7 +34,6 @@ CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
 联通,#genre#
 江西卫视,http://27.11.62.175:8010/udp/225.0.4.203:7980
 江西卫视5,http://119.4.196.65:4455/udp/239.93.0.134:5140
-江西卫视6,http://114.254.34.180:8887/udp/228.1.1.211:8164
 湖北经视,https://tv.cry33.com/hbcj.php?id=hbjs
 涛厨,http://43.138.170.29:35455/douyu/9562738
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
@@ -54,15 +53,26 @@ CCTV-17,http://27.11.62.175:8010/udp/225.0.4.179:7980
 安徽卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.122:6108
 辽宁卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.123:6108
 湖北经视HD-183,http://183.92.4.163:4000/udp/228.0.0.125:6108
-migu2,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=&encrypt=
-migu5,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=&encrypt=
-migu5p,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&encrypt=
-migu17,http://lr1.aikan.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?msisdn=&encrypt=
-migua,http://lr1.aikan.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?msisdn=&encrypt=
-migub,http://lr1.aikan.miguvideo.com/migu/lunbo/pingpang/57/20230310/index.m3u8?msisdn=&encrypt=
-miguc,http://lr1.aikan.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?msisdn=&encrypt=
-migud,http://lr1.aikan.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/index.m3u8?msisdn=&encrypt=
-migue,http://lr1.aikan.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=&encrypt=
+健康114,http://114.254.34.180:8887/udp/228.1.1.125:8001
+江西卫视114,http://114.254.34.180:8887/udp/228.1.1.211:8164
+cctv2114,http://114.254.34.180:8887/udp/228.1.1.24:8084
+CCTV-5 体育[高清]114,http://114.254.34.180:8887/udp/228.1.1.192:8002
+CCTV-5+ 体育赛事[高清114,http://114.254.34.180:8887/udp/228.1.1.23:8004
+CCTV-17 农业农村[高清114,http://114.254.34.180:8887/udp/228.1.1.181:8144
+湖南卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.33:8012
+东方卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.39:8032
+浙江卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.13:8036
+江苏卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.37:8028
+深圳卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.36:8020
+广东卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.17:8048
+安徽卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.21:8064
+天津卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.15:1234
+重庆卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.210:8160
+山东卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.18:8052
+黑龙江卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.35:8016
+河北卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.187:8072
+广场舞[高清114,http://114.254.34.180:8887/udp/228.1.1.226:8002
+辽宁卫视[高清114,http://114.254.34.180:8887/udp/228.1.1.19:8056
 江西卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.147:7147
 浙江民生2,http://220.184.204.26:4022/udp/233.50.201.136:5140
 东南卫视HD-183,http://183.92.4.163:4000/udp/228.0.0.144:7144
