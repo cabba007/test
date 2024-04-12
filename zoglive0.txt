@@ -6,8 +6,6 @@ jj斗地主2,http://mmitv.top/test/douyu.php?id=488743
 五星体育1,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
 CCTV5c,http://istore4.qnas.net:8889/udp/226.0.2.209:9584
 CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
-CCTV-5-27,http://27.11.249.153:8007/udp/225.0.4.143:7980
-CCTV5体育-123,http://123.145.23.104:8004/udp/225.0.4.143:7980
 CCTV5+体育赛事-123,http://123.145.23.104:8004/udp/225.0.4.73:7980
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
 鹿鼎记,https://live.metshop.top/yy/28265277
