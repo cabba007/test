@@ -44,8 +44,8 @@ CCTV5+c,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 湖北经视HD-183,http://183.92.4.163:4000/udp/228.0.0.125:6108
 湖北经视,https://tv.cry33.com/hbcj.php?id=hbjs
 涛厨,http://43.138.170.29:35455/douyu/9562738
+钓鱼,http://43.138.170.29:35455/douyu/791411
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-钓鱼,http://mmitv.top/test/douyu.php?id=791411
 江西卫视114,http://114.254.34.180:8887/udp/228.1.1.211:8164
 江西卫视182,http://182.115.186.247:4022/udp/225.1.4.37:1066
 cctv2 114,http://114.254.34.180:8887/udp/228.1.1.24:8084
