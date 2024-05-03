@@ -29,6 +29,7 @@ CCTV5+,http://istore4.qnas.net:8889/udp/226.0.2.168:9256
 三国演义,http://43.138.170.29:35455/douyu/7459925
 
 联通,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 李大毛,http://43.138.170.29:35455/douyu/791411
 西游记,http://43.138.170.29:35455/douyu/8953746
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
